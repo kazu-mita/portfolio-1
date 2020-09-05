@@ -2,9 +2,10 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+
 .home-content {
   text-align: center;
-  margin-top: 10%;
+  margin-top: 3%;
 }
 .home-content p {
   font-size: 1.125rem;
@@ -16,27 +17,27 @@
 .button{
   padding-top:80px;
 }
-.btn-square-pop {
-  position: relative;
+
+.btn-square {
   display: inline-block;
-  padding: 0.25em 0.5em;
+  padding: 0.5em 1em;
   text-decoration: none;
+  background: #668ad8;
+  /*ボタン色*/
   color: #FFF;
-  background: #C0C0C0;
-  /*背景色*/
-  border-bottom: solid 2px #C0C0C0;
-  /*少し濃い目の色に*/
-  border-radius: 4px;
-  /*角の丸み*/
-  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.2), 0 2px 2px rgba(0, 0, 0, 0.19);
-  font-weight: bold;
+  border-bottom: solid 4px #627295;
+  border-radius: 30px;
 }
 
-.btn-square-pop:active {
-  border-bottom: solid 2px#C0C0C0;
-  box-shadow: 0 0 2px rgba(0, 0, 0, 0.30);
+.btn-square:active {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);
+  /*下に動く*/
+  border-bottom: none;
+  /*線を消す*/
 }
 
-.select {
-  
+.navbar {
+  transition: color .6s;
 }
