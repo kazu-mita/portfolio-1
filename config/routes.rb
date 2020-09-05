@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
+  get 'results/first'
+  get 'results/second'
+  get 'results/third'
   root 'static_pages#top'
-  get  "/static_pages_path"  => "static_pages#index"
+  resources :users
+  get  "results/first"  => "resutss#first"
+  get  "results/second"  => "resutss#second"
+  get  "results/third"  => "resutss#third"
 end
 
