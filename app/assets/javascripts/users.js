@@ -1,5 +1,5 @@
 function saiten() {
-  let point = 0; //　点数
+  let point = 0;
   let min = 3;
   let max = 5;
 

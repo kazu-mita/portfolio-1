@@ -1,8 +1,7 @@
 "use strict";
 
 function saiten() {
-  var point = 0; //　点数
-
+  var point = 0;
   var min = 3;
   var max = 5;
 
