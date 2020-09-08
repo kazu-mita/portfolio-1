@@ -25,6 +25,11 @@ function saiten() {
     point += 1;
   }
 
+  if (document.querySelectorAll(':checked').length < 5) {
+    alert("未入力箇所を入力下ください");
+    return false;
+  }
+
   if (point >= max) {
     location.href = "/results/first";
   } else if (point >= min) {

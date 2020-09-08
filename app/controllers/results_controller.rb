@@ -1,10 +1,7 @@
 class ResultsController < ApplicationController
-  def first
-  end
+  def first; end
 
-  def second
-  end
+  def second; end
 
-  def third
-  end
+  def third; end
 end

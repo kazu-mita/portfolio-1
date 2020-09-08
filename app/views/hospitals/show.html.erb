@@ -1,0 +1,19 @@
+<% content_for(:title, @hospital.name) %>
+ <div class="container pt-5">
+   <div class="row mb-3">
+     <div class="col-lg-8 offset-lg-2">
+       <h1><%= @hospital.name %></h1>
+       <article class="card">
+         <div class="card-body">
+           <div class='row'>
+             <div class='col-md-9'>
+               <ul class="list-inline">
+                 <li class="list-inline-item"><%=@hospital.address %></li>
+                  <div id="map"></div>
+               </ul>
+             </div>
+           </div>
+         </div> 
+       </article>
+     </div>
+   </div>
