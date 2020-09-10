@@ -1,24 +1,15 @@
-# README
+**サービス概要**
+ <p>ギャンブルが原因で生活が困窮している家族や本人にギャンブル依存症の疑いがあるので病院に行って治療をする必要があるっていうのを伝えるサービス</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**ユーザーが抱える課題**
+<p>厚生労働省の調査によると障害でギャンブル依存症が疑われる状態になったことのある人は3.6%とギャンブル依存症の人は推計320万人も存在している。
+しかし、現在ほとんどの人は適切な治療を受けておらずギャンブルが原因で犯罪や家庭崩壊などが発生している。</p>
 
-Things you may want to cover:
+**解決方法**
+ <p>ギャンブルをしている本人や家族にギャンブル依存症の人は病気だということを自覚させ病院に行かせること</p>
 
-* Ruby version
+**プロダクト**
+<p>ギャンブル依存症診断と現在地周辺の専門病院検索</p>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**マーケット**
+<p>ギャンブルで生活に支障が出ている人</p>
