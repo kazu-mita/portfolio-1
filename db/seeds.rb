@@ -9,5 +9,5 @@
 require 'csv'
 
   CSV.foreach('db/hospital.csv') do |info|
-    Hospital.create(:prefecture=> info[0], :name => info[1], :address => info[2])
+    Hospital.create(:prefecture=> info[0], :name => info[1], :address => info[2],:longitude => info[3], :latitude => info[4], )
   end

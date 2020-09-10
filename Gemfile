@@ -70,5 +70,3 @@ gem 'kaminari', '1.1.1'
 gem 'ransack' 
 
 gem 'geocoder'
-
-gem "dotenv-rails"
