@@ -2,8 +2,8 @@
 
 function saiten() {
   var point = 0;
-  var min = 3;
-  var max = 5;
+  var min = 2;
+  var max = 4;
 
   if (document.quiz.a[0].checked) {
     point += 1;

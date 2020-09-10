@@ -1,7 +1,7 @@
 function saiten() {
   let point = 0;
-  let min = 3;
-  let max = 5;
+  let min = 2;
+  let max = 4;
 
   if (document.quiz.a[0].checked) {
     point += 1;
