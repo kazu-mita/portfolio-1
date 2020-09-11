@@ -68,3 +68,5 @@ gem 'pg'
 gem 'kaminari', '1.1.1'
 
 gem 'ransack' 
+
+gem 'geocoder'
