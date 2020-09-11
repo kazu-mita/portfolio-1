@@ -26,7 +26,7 @@ function saiten() {
   }
 
   if (document.querySelectorAll(':checked').length < 5) {
-    alert("未入力箇所を入力下ください");
+    alert("未入力箇所を入力して下さい");
     return false;
   }
 
