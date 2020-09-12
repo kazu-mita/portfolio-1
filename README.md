@@ -12,7 +12,7 @@
  <p>①トップページ<p>
 <img width="1438" alt="スクリーンショット 2020-09-12 17 14 14" src="https://user-images.githubusercontent.com/63503851/92992828-a7be8780-f528-11ea-9112-ff842e939725.png">
 
- <p>②質問</p>
+ <p>②診断</p>
 <img width="1425" alt="スクリーンショット 2020-09-12 17 14 42" src="https://user-images.githubusercontent.com/63503851/92992896-1e5b8500-f529-11ea-9ee9-0ee1322705dd.png">
 
  <p>③結果（Yesを選択をした数によって3種類の画面が表示される）</p>
