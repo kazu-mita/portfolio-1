@@ -48,9 +48,9 @@
  * 8 GB 
 
 **ライブラリ**
- * kaminari(ページネーション) *
- * ransack(検索機能） *
- * geocoder（Gogole Map API表示） *
+ * kaminari(ページネーション) 
+ * ransack(検索機能） 
+ * geocoder（Gogole Map API表示） 
 
 
 
