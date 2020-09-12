@@ -20,10 +20,38 @@
  <p>④専門病院検索</p>
  <img width="1430" alt="スクリーンショット 2020-09-12 17 15 03" src="https://user-images.githubusercontent.com/63503851/92992964-64184d80-f529-11ea-915b-5d3495ca2f5d.png">
 
- <p>⑥病院の詳細</p>
+ <p>⑤病院の詳細</p>
  <img width="1437" alt="スクリーンショット 2020-09-12 17 15 15" src="https://user-images.githubusercontent.com/63503851/92992984-8ad68400-f529-11ea-8f27-6a9db40f4c14.png">
 
 **使用技術**
 
-* バックエンド
- * ruby 2.5.1
+**バックエンド**
+ * Ruby 2.5.1
+ * Rails 5.2.4.4
+ 
+**フロントエンド**
+ * Scss 
+ * jQuery
+ * Bootstrap 4(CSSフレームワーク)
+ 
+**DB**
+ * SQL 3.2.2
+ 
+**OS**
+ * Mac OS X
+ 
+**プロセッサ**
+ * 1.1 GHz デュアルコアIntel Core i3
+ 
+**メモリ**
+ * 8 GB 3733 MHz LPDDR4X **
+
+**ライブラリ**
+ * kaminari(ページネーション) *
+ * ransack(検索機能） *
+ * geocoder（Gogole Map API表示） *
+
+
+
+ 
+
