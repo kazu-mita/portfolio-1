@@ -45,7 +45,7 @@
  * 1.1 GHz デュアルコアIntel Core i3
  
 **メモリ**
- * 8 GB 3733 MHz LPDDR4X **
+ * 8 GB 
 
 **ライブラリ**
  * kaminari(ページネーション) *
