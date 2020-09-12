@@ -13,3 +13,5 @@
 
 **マーケット**
 <p>ギャンブルで生活に支障が出ている人</p>
+
+<img width="1438" alt="スクリーンショット 2020-09-12 17 14 14" src="https://user-images.githubusercontent.com/63503851/92992828-a7be8780-f528-11ea-9112-ff842e939725.png">
